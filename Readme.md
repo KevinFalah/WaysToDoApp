@@ -7,13 +7,13 @@ Simple project made with react native to finish the task.
 Clone the project
 
 ```bash
-  git clone https://github.com/suryaa6666/dw_waystodo
+  git clone https://github.com/KevinFalah/WaysToDoApp
 ```
 
 Go to the project directory
 
 ```bash
-  cd dw_waystodo
+  cd waystodoapp
 ```
 
 Install dependencies
