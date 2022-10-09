@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "WaysTODO",
+    "slug": "WaysTODO",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/waystodo-icon.png",
+    "splash": {
+      "image": "./assets/waystodo-splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/waystodo-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.suryaelidanto.WaysTODO"
+    },
+    "web": {
+      "favicon": "./assets/waystodo-icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b20cfe85-01f8-4849-ac83-ebb162413a10"
+      }
+    }
+  }
+}
